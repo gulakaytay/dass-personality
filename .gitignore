@@ -6,3 +6,6 @@ __pycache__/
 # Ham veri repoya girmez; src/download_data.py ile indirilir
 data/raw/*
 !data/raw/.gitkeep
+
+# Türetilen veri de scriptlerle yeniden üretilir
+data/processed/
